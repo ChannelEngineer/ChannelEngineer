@@ -4,7 +4,7 @@
 
 ```yaml
 name: Seth Duesman
-role: Channel Manager | Strategic Partnerships
+role: Channel Management | Strategic Partnerships
 focus: Cybersecurity & Data Protection
 location: Atlanta, GA
 ```
@@ -36,7 +36,7 @@ Channel Ops        → Locator management, portal content, performance analytics
 
 ### Let's connect
 
-[LinkedIn](https://linkedin.com/in/duesman) · [Sapphire Solutions](https://saphsol.com)
+[LinkedIn](https://linkedin.com/in/duesman) · [Portfolio](https://sethduesman.com)
 
 ---
 
