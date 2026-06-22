@@ -22,7 +22,7 @@ Currently building **partner program automation** — MCP-driven tools that enco
 | Repo | What it is |
 |---|---|
 | **[channel-tools](https://github.com/ChannelEngineer/channel-tools)** | 10 MCP tools for partner program design, deal registration, lead management, partner onboarding, MDF, locator, and NFR — grounded in real channel docs |
-| **[resonate-iq](https://github.com/ChannelEngineer/resonate-iq)** | AI-powered communications platform — lead scoring, enrichment, multi-channel outreach sequences |
+| **[resonate-iq](https://github.com/ChannelEngineer/resonate-iq)** | AI-powered communications platform — lead scoring, waterfall enrichment, multi-channel outreach sequences |
 
 ### The toolkit I work with
 
