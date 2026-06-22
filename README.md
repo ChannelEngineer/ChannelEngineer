@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>👋 Welcome to my channel</h1>
+  <h1>👋 Welcome!</h1>
 </div>
 
 ```yaml
 name: Seth Duesman
 role: Channel Management | Strategic Partnerships
 focus: Cybersecurity & Data Protection
-location: Atlanta, GA
+location: Boise, ID
 ```
 
 ---
